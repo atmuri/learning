@@ -1,0 +1,9 @@
+{
+	"id":"admin",
+	"comment":"admin user",
+	"uid":"1005",
+	"gid":"0",
+	"home":"/home/admin",
+	"shell":"/bin/ksh",
+	"password":"12345"
+}
