@@ -9,7 +9,7 @@
 if node["platform"] == "ubuntu"
 	execute "apt-get update -y" do
 	end
-end
+#end
 
 
 
